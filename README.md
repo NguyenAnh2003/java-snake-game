@@ -29,10 +29,10 @@ Command of this func is "update"
   If the point <= point(in database) return; (do noting)
   Else (Update)
 # Conclusion
-Snake game (using src)
-Main: Socket, TCP, File transfer
-Sub: Sound effect
-More: func with socket.
+- Snake game (using src)
+- Main: Socket, TCP, File transfer
+- Sub: Sound effect
+- More: func with socket.
 # Development
 More feature :
  - Choosing snake color.
