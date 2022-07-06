@@ -33,3 +33,8 @@ Main: Socket, TCP, File transfer
 Sub: Sound effect
 More: func with socket.
 # Development
+More feature :
+ - Choosing snake color.
+ - Animation with apple (scale .2s)
+ - Choosing background color for game. 
+ - (Maybe) adding background audio for login form.
