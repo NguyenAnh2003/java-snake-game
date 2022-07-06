@@ -13,3 +13,7 @@
 
 # Deep into program (explain code)
 - Login form
+get all the text from textfield and send (send a list with the command ("check") and name and hash password) to server the server (get the command first ("check") this command represent for 1 function) will processing check the data from client and send response to client (yes, no) 
+  yes -> start(button) enable
+  no -> do nothing
+- Show record (Special)
