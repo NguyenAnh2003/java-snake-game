@@ -1,18 +1,18 @@
-# java-snake-game
+## java-snake-game
 (socket, TCP, XML processing, database (sql server))
 - user interface
 
 ![user_Interface](https://user-images.githubusercontent.com/94124019/177466664-37875c7a-7167-4363-94cb-057bb32934ea.png)
 
 
-# every button have sound effect
+## every button have sound effect
 
 - snake interface
 
 ![snake_Interface](https://user-images.githubusercontent.com/94124019/177463004-f24ecee7-9a11-4de6-80a7-0609344e7ab3.png)
 
 
-# Deep into program (explain code)
+## Deep into program (explain code)
 - Login form
 Command of this func is "check"
  Details:
@@ -28,12 +28,12 @@ Command of this func is "update"
   Details: This func will send point and name to server so it will encounter the updatePoint func (This func will compare the point from client(with username exist in database) and the point(of user) in database) 
   If the point <= point(in database) return; (do noting)
   Else (Update)
-# Conclusion
+## Conclusion
 - Snake game (using src)
 - Main: Socket, TCP, File transfer
 - Sub: Sound effect
 - More: func with socket.
-# Development
+## Development
 More feature :
  - Choosing snake color.
  - Animation with apple (scale .2s)
