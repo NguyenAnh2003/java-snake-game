@@ -12,7 +12,7 @@
 ![snake_Interface](https://user-images.githubusercontent.com/94124019/177463004-f24ecee7-9a11-4de6-80a7-0609344e7ab3.png)
 
 
-## Deep into program (explain code)
+## Dive into program (explain code)
 - Login form
 Command of this func is "check"
  Details:
